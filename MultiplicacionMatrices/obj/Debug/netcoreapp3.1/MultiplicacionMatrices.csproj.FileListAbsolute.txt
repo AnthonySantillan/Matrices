@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\bin\Debug\netcoreapp3.1\MultiplicacionMatrices.exe
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\bin\Debug\netcoreapp3.1\MultiplicacionMatrices.deps.json
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\bin\Debug\netcoreapp3.1\MultiplicacionMatrices.runtimeconfig.json
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\bin\Debug\netcoreapp3.1\MultiplicacionMatrices.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\bin\Debug\netcoreapp3.1\MultiplicacionMatrices.dll
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\bin\Debug\netcoreapp3.1\MultiplicacionMatrices.pdb
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\obj\Debug\netcoreapp3.1\MultiplicacionMatrices.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\obj\Debug\netcoreapp3.1\MultiplicacionMatrices.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\obj\Debug\netcoreapp3.1\MultiplicacionMatrices.AssemblyInfo.cs
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\obj\Debug\netcoreapp3.1\MultiplicacionMatrices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\obj\Debug\netcoreapp3.1\MultiplicacionMatrices.dll
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\obj\Debug\netcoreapp3.1\MultiplicacionMatrices.pdb
+C:\Users\hp\source\repos\Matrices\MultiplicacionMatrices\obj\Debug\netcoreapp3.1\MultiplicacionMatrices.genruntimeconfig.cache
